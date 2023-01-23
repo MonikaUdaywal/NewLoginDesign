@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">New Login Design</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login">LogIn</string>
+    <string name="log_in_image">LogInImage</string>
+    <string name="welcome_back">Welcome Back !!</string>
+    <string name="email_phone">Email/Phone</string>
+    <string name="type_here">Type here</string>
+    <string name="password">Password</string>
+    <string name="forget_your_password">Forget your Password?</string>
+    <string name="terms">I have read the terms</string>
+    <string name="hi">Hi</string>
+    <string name="welcome">Welcome !!</string>
+    <string name="date_of_birth">Date of Birth</string>
+    <string name="re_type_password">Re-type password</string>
+</resources>
